@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-# 🎓 unprof
+# 🎓 ScholarOps
 
 ### Your student evaluation matrices — as an object-oriented desktop command center.
 
