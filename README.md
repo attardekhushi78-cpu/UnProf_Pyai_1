@@ -5,7 +5,7 @@
 ### Your student evaluation matrices — as an object-oriented desktop command center.
 
 <p align="center">
-  Drop this workspace repository template into your terminal and stop tracking student evaluations using boring spreadsheets.
+
   <br />
   <a href="#-live-demo"><strong>Watch Live Demo »</strong></a>
   <br />
@@ -32,7 +32,7 @@
 
 ## 🔴 Live Demo
 
-Transform flat, hard-to-read academic terminal console lines into an interactive standalone user terminal dashboard interface instantly.
+
 
 [![Python Application](https://img.shields.io/badge/Application_Demo-Watch_Video-2ecc71?style=for-the-badge&logo=python&logoColor=white)]
 
